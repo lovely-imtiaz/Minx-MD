@@ -21,15 +21,15 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['918590451659']
-global.premium = ['918590451659']
-global.ownernomer = '918590451659'
+global.owner = ['923112345043']
+global.premium = ['923112345043']
+global.ownernomer = '923112345043'
 global.ownername = '🦄Dream Guy iiuzi'
 global.botname = 'Minx Bot MD'
 global.footer = 'iiuzi Bot Inc.'
-global.ig = 'https://github.com/iiuzi-0x'
+global.ig = 'https://github.com/lovely-imtiaz'
 global.region = 'India, kerala ,mlp'
-global.sc = 'https://github.com/iiuzi-0x/Minx-MD'
+global.sc = 'https://github.com/lovely-imtiaz'
 global.myweb = 'https://youtu.be/kb1cGKUo-Jg'
 global.packname = 'Minx Bot'
 global.author = '🦄Dream Guy iiuzi'
